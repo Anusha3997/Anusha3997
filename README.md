@@ -29,10 +29,10 @@ Data Manipulation in Python (NumPy & Pandas) *(Mar 2025)*
 **Bellabeat Wellness Analytics** – Analyzed 1M+ Fitbit data rows with Pandas & Tableau, improving wellness recommendation accuracy by 20%.  
 **Airplane Crash Data Analysis** – Cleaned & analyzed 50+ years of aviation incident data, uncovering safety trends.  
 **Business Expansion Dashboard** – Interactive Tableau dashboard comparing 10+ KPIs across U.S. cities for market-entry decisions.  
-**Gaming Store App** – SQL-backed web app with secure transactions & intuitive UI.  
+**Gaming Store App** – SQL-backed web app with secure transactions & intuitive UI.
 
 
 ## 🤝 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/anusha-nagula-11611b4b)  
 - [GitHub](https://github.com/Anusha3997)  
-- 📧 anusha.nagula@ucdenver.edu  
+- 📧 anusha.nagula@ucdenver.edu 
