@@ -35,4 +35,4 @@ Data Manipulation in Python (NumPy & Pandas) *(Mar 2025)*
 ## 🤝 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/anusha-nagula-11611b4b)  
 - [GitHub](https://github.com/Anusha3997)  
-- 📧 anusha.nagula@ucdenver.edu 
+- 📧 anusha.nagula97@gmail.com
