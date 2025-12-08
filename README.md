@@ -8,6 +8,8 @@ I actively practice data structures and algorithms to strengthen my analytical m
 
 My goal is to continuously evolve into the kind of engineer who can deliver scalable, innovative, and impactful solutions that meet the expectations of the world’s most selective technology companies.  
 
+Original TMDB datasets are not included in this repo due to size constraints.
+They can be downloaded from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## 🔧 Tech Stack  
 **Languages:** Python, SQL, C, C++, JavaScript, HTML, OOP  
