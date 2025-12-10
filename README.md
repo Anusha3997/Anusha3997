@@ -21,7 +21,6 @@ Expanding portfolio with ML + BI projects.
 
 ## 📜 Certifications  
 IBM Machine Learning with Python *(Dec 2025)*
-
 IBM Generative AI: Prompt Engineering Basics *(May 2025)*  
 Google Data Analytics Professional Certificate *(Jul 2025)*  
 Data Manipulation in Python (NumPy & Pandas) *(Mar 2025)*  
