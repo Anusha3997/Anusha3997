@@ -11,7 +11,7 @@ My goal is to continuously evolve into the kind of engineer who can deliver scal
 
 ## 🔧 Tech Stack  
 **Languages:** Python, SQL, C, C++, JavaScript, HTML, OOP  
-**Data Analytics & BI:** Tableau, Power BI, Pandas, NumPy  
+**Data Analytics & BI:** Tableau, Power BI, Pandas, NumPy , Scikit Learn, Machine Learning 
 **Cloud & DevOps:** AWS, Jenkins, GitHub, ETL, Data Warehousing  
 **Tools:** Jupyter, Excel (Advanced), Word, PowerPoint  
 
@@ -20,12 +20,14 @@ Practicing **Data Structures & Algorithms** (NeetCode) to strengthen interview r
 Expanding portfolio with ML + BI projects.  
 
 ## 📜 Certifications  
+IBM Machine Learning with Python *(Dec 2025)*
 IBM Generative AI: Prompt Engineering Basics *(May 2025)*  
 Google Data Analytics Professional Certificate *(Jul 2025)*  
 Data Manipulation in Python (NumPy & Pandas) *(Mar 2025)*  
 
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
+**Movie Success Prediction** - Built an end-to-end Machine Learning pipeline to predict movie success using classification, regression, and clustering models, including feature engineering for directors/production companies, hyperparameter tuning, and rigorous evaluation. 
 **Bellabeat Wellness Analytics** – Analyzed 1M+ Fitbit data rows with Pandas & Tableau, improving wellness recommendation accuracy by 20%.  
 **Airplane Crash Data Analysis** – Cleaned & analyzed 50+ years of aviation incident data, uncovering safety trends.  
 **Business Expansion Dashboard** – Interactive Tableau dashboard comparing 10+ KPIs across U.S. cities for market-entry decisions.  
