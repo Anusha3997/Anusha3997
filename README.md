@@ -1,4 +1,4 @@
-Hi, I’m Anusha 👋  
+# Hi there, I’m Anusha 👋  
 MS in Information Systems @ University of Colorado Denver (GPA: 4.0/4.0)
 
 I build data-centric backend systems that turn raw data into reliable pipelines, APIs, and analytics-ready datasets. My work sits at the intersection of data engineering, backend development, and applied analytics, with a focus on clean design, scalability, and real-world usability.
@@ -36,6 +36,19 @@ This project reflects how I approach real systems: clear data flow, well-structu
 I’m actively building and refining projects that demonstrate production-oriented data and backend engineering skills.  
 Thanks for stopping by!
 
+---
+
+### 📜 Certifications
+- IBM Machine Learning with Python
+- Google Data Analytics (Coursera)
+- IBM Generative AI – Prompt Engineering Basics
+
+---
+
+### 📂 Other Projects
+- Data analysis on large-scale health and aviation datasets using Python and SQL  
+- SQL-backed web applications focusing on data consistency and secure transactions  
+- BI dashboards built with Tableau and Power BI for KPI-driven decision-making
 
 ## 🤝 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/anusha-nagula-11611b4b)  
