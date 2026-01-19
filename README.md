@@ -1,4 +1,4 @@
-Hi, I’m Anusha 👋  
+# Hi, I’m Anusha 👋  
 MS in Information Systems @ University of Colorado Denver (GPA: 4.0/4.0)
 
 I build data-centric backend systems that transform raw data into reliable pipelines, APIs, and analytics-ready datasets. My work sits at the intersection of **data engineering**, **backend development**, and **applied analytics**, with a focus on clean design, scalability, and real-world usability.
