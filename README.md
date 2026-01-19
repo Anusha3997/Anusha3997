@@ -30,7 +30,7 @@ Data Manipulation in Python (NumPy & Pandas) *(Mar 2025)*
 
 ## 🚀 Featured Projects
 **Finsight AI** - Built an end-to-end data engineering and backend analytics platform that ingests, processes, and stores historical financial data, exposes analytics through REST APIs using FastAPI, and supports data-driven insights via SQL-based modeling and cloud-deployed workflows.
-**Movie Success Prediction** - Built an end-to-end Machine Learning pipeline to predict movie success using classification, regression, and clustering models, including feature engineering for directors/production companies, hyperparameter tuning, and rigorous evaluation. 
+**Movie Success Prediction** - Built an end-to-end Machine Learning pipeline to predict movie success using classification, regression, and clustering models, including feature engineering for directors/production companies, hyperparameter tuning, and rigorous evaluation.
 **Bellabeat Wellness Analytics** – Analyzed 1M+ Fitbit data rows with Pandas & Tableau, improving wellness recommendation accuracy by 20%.  
 **Airplane Crash Data Analysis** – Cleaned & analyzed 50+ years of aviation incident data, uncovering safety trends.  
 **Business Expansion Dashboard** – Interactive Tableau dashboard comparing 10+ KPIs across U.S. cities for market-entry decisions.  
