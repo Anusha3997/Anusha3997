@@ -1,44 +1,114 @@
-# Hi, I’m Anusha 👋  
-MS in Information Systems @ University of Colorado Denver (GPA: 4.0/4.0)
+# Hi, I'm Anusha Nagula 👋
 
-I build data-centric backend systems that transform raw data into reliable pipelines, APIs, and analytics-ready datasets. My work sits at the intersection of **data engineering**, **backend development**, and **applied analytics**, with a focus on clean design, scalability, and real-world usability.
+Data • AI/ML • Backend Engineering
 
-I have industry experience as a Software Engineer and currently work as a Teaching Assistant for Business Intelligence courses, supporting large-scale analytics education across SQL, Tableau, and enterprise BI tools.
+I build data-centric backend systems that transform raw data into reliable pipelines, APIs, and analytics-ready datasets. My work sits at the intersection of **data engineering**, **backend development**, and **applied analytics**, with a focus on clean design, scalability, and real-world usability.  
+Currently pursuing my Master’s in Information Systems and focused on becoming a **Data Engineer** and **AI/ML Platform Engineer**. 
+---
+
+## 🧠 About Me
+
+• Strong in SQL, Python, and system design  
+• Love building end-to-end projects (API → DB → ML → Deployment)  
+• Interested in Data Engineering, ML Platforms, and Analytics Infrastructure  
+• Teaching Assistant for Business Intelligence & Analytics  
+• Always learning, always shipping
 
 ---
 
-## 🔧 Technical Focus
+## 🛠 Tech Stack
 
-**Languages & Querying**  
-- Python, SQL  
+### Languages & Querying
+Python • JavaScript • SQL • R • C
 
-**Data Engineering**  
-- ETL pipelines, data cleaning & transformation  
-- Data modeling and analytics-ready schemas  
+### Data Engineering
+ETL pipelines • Data cleaning & transformation • Data modeling • Analytics-ready schemas • Warehousing concepts
 
-**Backend & APIs**  
-- FastAPI, RESTful services  
+### Backend & APIs
+FastAPI • RESTful services • API design • Backend architecture • Git • Linux
 
-**Databases**  
-- PostgreSQL, Oracle  
+### Databases
+PostgreSQL • Oracle • Relational design • Indexing • Query optimization
 
-**Cloud & DevOps**  
-- AWS (S3, EC2, IAM), Docker, Jenkins, GitHub  
+### Cloud & DevOps
+AWS (S3, EC2, IAM) • Docker • Jenkins • GitHub • CI/CD basics
 
-**Analytics & BI**  
-- pandas, NumPy, Tableau, Power BI, scikit learn, Machine Learning 
+### Analytics & Machine Learning
+pandas • NumPy • scikit-learn • Machine Learning • Feature engineering • Model evaluation • Tableau • Power BI
 
-**Foundations**  
-- Data Structures & Algorithms, OOP  
+### Foundations
+Data Structures & Algorithms • OOP • Problem solving • System thinking
+
+
+# ⭐ Featured Projects
 
 ---
 
-## 🚀 Featured Project
+## 📊 FinSight AI Platform
+Production-style financial analytics & ML prediction system
 
-**FinSight – Financial Analytics Platform**  
-An end-to-end data engineering and backend analytics system that ingests, transforms, and persists financial market data using Python and SQL, exposes analytics through FastAPI APIs, and supports data-driven insights via cloud-deployed workflows.
+• Built FastAPI backend serving ML predictions  
+• Designed PostgreSQL data warehouse for stock history  
+• Implemented feature engineering + model training pipelines  
+• Dockerized full stack with reproducible deployments  
+• REST APIs for real-time forecasting
 
-This project reflects how I approach real systems: clear data flow, well-structured APIs, and analytics-ready outputs.
+**Tech:** Python, FastAPI, PostgreSQL, Docker, ML  
+🔗 Repo: https://github.com/Anusha3997/FinSight
+
+---
+
+## 🎬 Movie Success Prediction
+End-to-end machine learning pipeline for movie revenue classification
+
+• Cleaned + engineered features from raw movie datasets  
+• Trained multiple models with cross-validation & hyperparameter tuning  
+• Feature importance + confusion matrix analysis  
+• Modular scripts for training, evaluation, and inference  
+• Reproducible ML workflow
+
+**Tech:** Python, Scikit-learn, Pandas  
+🔗 Repo: https://github.com/Anusha3997/Movie-Success-Prediction
+
+---
+
+## 🛒 Tungsten Gaming Store Analytics
+Retail database design + business analytics project
+
+• Designed normalized relational schema (3NF)  
+• Created PK/FK constraints, indexes, and integrity rules  
+• Wrote complex SQL queries (joins, aggregations, window functions)  
+• Built analytics for revenue, customers, and product insights  
+• Dockerized PostgreSQL setup
+
+**Tech:** PostgreSQL, SQL, Docker, ER Modeling  
+🔗 Repo: https://github.com/Anusha3997/Tungsten-Gaming-Store
+
+---
+
+## ✈️ Airplane Crash Analysis
+Exploratory data analysis on global aviation incidents
+
+• Data cleaning and transformation  
+• Time-series trend analysis of crash frequency  
+• Root-cause and survival insights  
+• Visual dashboards and statistical summaries
+
+**Tech:** Python, Pandas, Matplotlib  
+🔗 Repo: https://github.com/Anusha3997/Airplane-Crash-Analysis
+
+---
+
+## 💪 Bellabeat Fitness Case Study
+Business intelligence & behavioral analytics project
+
+• Analyzed smart device usage patterns  
+• Built user activity metrics and KPI dashboards  
+• Generated insights for customer engagement strategy  
+• End-to-end analytics workflow
+
+**Tech:** R, SQL, Tableau  
+🔗 Repo: https://github.com/Anusha3997/Bellabeat-Fitness
 
 ---
 
@@ -54,12 +124,8 @@ This project reflects how I approach real systems: clear data flow, well-structu
 - Google Data Analytics (Coursera)  
 - IBM Generative AI – Prompt Engineering Basics  
 
----
 
-I’m actively building and refining projects that demonstrate **production-oriented data and backend engineering skills**.  
-Thanks for stopping by!
+# 🤝 Let's Connect
 
-## 🤝 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/anusha-nagula-11611b4b)  
-- [GitHub](https://github.com/Anusha3997)  
-- 📧 anusha.nagula97@gmail.com
+LinkedIn: https://www.linkedin.com/in/anusha-nagula-11611b4b
+
