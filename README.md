@@ -2,8 +2,9 @@
 
 Data • AI/ML • Backend Engineering
 
-I build data-centric backend systems that transform raw data into reliable pipelines, APIs, and analytics-ready datasets. My work sits at the intersection of **data engineering**, **backend development**, and **applied analytics**, with a focus on clean design, scalability, and real-world usability.  
-Currently pursuing my Master’s in Information Systems and focused on becoming a **Data Engineer** and **AI/ML Platform Engineer**. 
+I build production-style data systems, ML pipelines, and analytics platforms that turn raw data into actionable insights.  
+Currently pursuing my Master’s in Information Systems and focused on becoming a **Data Engineer** | **AI/ML Platform Engineer** at the intersection of data engineering, backend systems, and machine learning.
+
 ---
 
 ## 🧠 About Me
