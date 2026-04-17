@@ -23,7 +23,10 @@ Currently pursuing my Master’s in Information Systems and focused on becoming 
 Python • JavaScript • SQL • R • C
 
 ### Data Engineering
-ETL pipelines • Data cleaning & transformation • Data modeling • Analytics-ready schemas • Warehousing concepts
+ETL pipelines • Data cleaning & transformation • Data modeling • Analytics-ready schemas • Warehousing concepts (Star and Snowflake Schema) • Apache Spark (PySpark) • Apache Kafka • Batch and Streaming data pipelines • Distribuuted data processing
+
+### Orchestration & Workflow
+Apache Airflow
 
 ### Backend & APIs
 FastAPI • RESTful services • API design • Backend architecture • Git • Linux
@@ -32,20 +35,33 @@ FastAPI • RESTful services • API design • Backend architecture • Git •
 PostgreSQL • Oracle • Relational design • Indexing • Query optimization
 
 ### Cloud & DevOps
-AWS (S3, EC2, IAM) • Docker • Jenkins • GitHub • CI/CD basics
+AWS (S3, EC2, IAM) • Docker • Jenkins • GitHub • CI/CD fundamentals • Kubernetes
 
 ### Analytics & Machine Learning
 pandas • NumPy • scikit-learn • Machine Learning • Feature engineering • Model evaluation • Tableau • Power BI
 
 ### Foundations
-Data Structures & Algorithms • OOP • Problem solving • System thinking
+Data Structures & Algorithms • OOP • Problem solving • System thinking • Disrtibuted System Design
 
 
 # ⭐ Featured Projects
 
 ---
 
+
 ## 📊 FinSight AI Platform
+Version 2:
+Production-scale real-time stock analytics & ML forecasting platform
+• Built a Kafka-based ingestion pipeline streaming stock data into analytics workflows
+• Implemented PySpark data processing jobs to compute forecasts and financial risk metrics
+• Orchestrated daily pipelines using Apache Airflow DAGs for automated data updates
+• Designed PostgreSQL analytics tables storing pre-computed forecasts and metrics
+• Developed FastAPI services serving sub-100ms analytics queries
+• Created interactive Streamlit dashboard for price trends, forecasts, and risk analysis
+• Dockerized the full distributed pipeline using Docker Compose for reproducible deployment
+
+**Tech:** Python, Apache Kafka, PySpark, Apache Airflow, FastAPI, PostgreSQL, Streamlit, Docker, Scikit-learn, SQLAlchemy
+
 Production-style financial analytics & ML prediction system
 
 • Built FastAPI backend serving ML predictions  
@@ -55,7 +71,6 @@ Production-style financial analytics & ML prediction system
 • REST APIs for real-time forecasting
 
 **Tech:** Python, FastAPI, PostgreSQL, Docker, ML  
-🔗 Repo: https://github.com/Anusha3997/FinSight
 
 ---
 
@@ -69,7 +84,6 @@ End-to-end machine learning pipeline for movie revenue classification
 • Reproducible ML workflow
 
 **Tech:** Python, Scikit-learn, Pandas  
-🔗 Repo: https://github.com/Anusha3997/Movie-Success-Prediction
 
 ---
 
@@ -83,7 +97,6 @@ Retail database design + business analytics project
 • Dockerized PostgreSQL setup
 
 **Tech:** PostgreSQL, SQL, Docker, ER Modeling  
-🔗 Repo: https://github.com/Anusha3997/Tungsten-Gaming-Store
 
 ---
 
@@ -96,7 +109,6 @@ Exploratory data analysis on global aviation incidents
 • Visual dashboards and statistical summaries
 
 **Tech:** Python, Pandas, Matplotlib  
-🔗 Repo: https://github.com/Anusha3997/Airplane-Crash-Analysis
 
 ---
 
@@ -109,7 +121,6 @@ Business intelligence & behavioral analytics project
 • End-to-end analytics workflow
 
 **Tech:** R, SQL, Tableau  
-🔗 Repo: https://github.com/Anusha3997/Bellabeat-Fitness
 
 ---
 
