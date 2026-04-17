@@ -64,11 +64,11 @@ Data Structures & Algorithms • OOP • Problem solving • System thinking •
 
 **Version 1:** Production-style financial analytics & ML prediction system
 
-• Built FastAPI backend serving ML predictions  
-• Designed PostgreSQL data warehouse for stock history  
-• Implemented feature engineering + model training pipelines  
-• Dockerized full stack with reproducible deployments  
-• REST APIs for real-time forecasting
+- Built FastAPI backend serving ML predictions  
+- Designed PostgreSQL data warehouse for stock history  
+- Implemented feature engineering + model training pipelines  
+- Dockerized full stack with reproducible deployments  
+- REST APIs for real-time forecasting
 
 **Tech:** Python, FastAPI, PostgreSQL, Docker, ML  
 
@@ -77,11 +77,11 @@ Data Structures & Algorithms • OOP • Problem solving • System thinking •
 ## 🎬 Movie Success Prediction
 End-to-end machine learning pipeline for movie revenue classification
 
-• Cleaned + engineered features from raw movie datasets  
-• Trained multiple models with cross-validation & hyperparameter tuning  
-• Feature importance + confusion matrix analysis  
-• Modular scripts for training, evaluation, and inference  
-• Reproducible ML workflow
+- Cleaned + engineered features from raw movie datasets  
+- Trained multiple models with cross-validation & hyperparameter tuning  
+- Feature importance + confusion matrix analysis  
+- Modular scripts for training, evaluation, and inference  
+- Reproducible ML workflow
 
 **Tech:** Python, Scikit-learn, Pandas  
 
@@ -90,11 +90,11 @@ End-to-end machine learning pipeline for movie revenue classification
 ## 🛒 Tungsten Gaming Store Analytics
 Retail database design + business analytics project
 
-• Designed normalized relational schema (3NF)  
-• Created PK/FK constraints, indexes, and integrity rules  
-• Wrote complex SQL queries (joins, aggregations, window functions)  
-• Built analytics for revenue, customers, and product insights  
-• Dockerized PostgreSQL setup
+- Designed normalized relational schema (3NF)  
+- Created PK/FK constraints, indexes, and integrity rules  
+- Wrote complex SQL queries (joins, aggregations, window functions)  
+- Built analytics for revenue, customers, and product insights  
+- Dockerized PostgreSQL setup
 
 **Tech:** PostgreSQL, SQL, Docker, ER Modeling  
 
@@ -103,10 +103,10 @@ Retail database design + business analytics project
 ## ✈️ Airplane Crash Analysis
 Exploratory data analysis on global aviation incidents
 
-• Data cleaning and transformation  
-• Time-series trend analysis of crash frequency  
-• Root-cause and survival insights  
-• Visual dashboards and statistical summaries
+- Data cleaning and transformation  
+- Time-series trend analysis of crash frequency  
+- Root-cause and survival insights  
+- Visual dashboards and statistical summaries
 
 **Tech:** Python, Pandas, Matplotlib  
 
@@ -115,10 +115,10 @@ Exploratory data analysis on global aviation incidents
 ## 💪 Bellabeat Fitness Case Study
 Business intelligence & behavioral analytics project
 
-• Analyzed smart device usage patterns  
-• Built user activity metrics and KPI dashboards  
-• Generated insights for customer engagement strategy  
-• End-to-end analytics workflow
+- Analyzed smart device usage patterns  
+- Built user activity metrics and KPI dashboards  
+- Generated insights for customer engagement strategy  
+- End-to-end analytics workflow
 
 **Tech:** R, SQL, Tableau  
 
