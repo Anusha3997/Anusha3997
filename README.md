@@ -50,8 +50,8 @@ Data Structures & Algorithms • OOP • Problem solving • System thinking •
 
 
 ## 📊 FinSight AI Platform
-Version 2:
-Production-scale real-time stock analytics & ML forecasting platform
+**Version 2:** Production-scale real-time stock analytics & ML forecasting platform
+
 • Built a Kafka-based ingestion pipeline streaming stock data into analytics workflows
 • Implemented PySpark data processing jobs to compute forecasts and financial risk metrics
 • Orchestrated daily pipelines using Apache Airflow DAGs for automated data updates
@@ -62,7 +62,7 @@ Production-scale real-time stock analytics & ML forecasting platform
 
 **Tech:** Python, Apache Kafka, PySpark, Apache Airflow, FastAPI, PostgreSQL, Streamlit, Docker, Scikit-learn, SQLAlchemy
 
-Production-style financial analytics & ML prediction system
+**Version 1:** Production-style financial analytics & ML prediction system
 
 • Built FastAPI backend serving ML predictions  
 • Designed PostgreSQL data warehouse for stock history  
