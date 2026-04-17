@@ -52,13 +52,13 @@ Data Structures & Algorithms • OOP • Problem solving • System thinking •
 ## 📊 FinSight AI Platform
 **Version 2:** Production-scale real-time stock analytics & ML forecasting platform
 
-• Built a Kafka-based ingestion pipeline streaming stock data into analytics workflows
-• Implemented PySpark data processing jobs to compute forecasts and financial risk metrics
-• Orchestrated daily pipelines using Apache Airflow DAGs for automated data updates
-• Designed PostgreSQL analytics tables storing pre-computed forecasts and metrics
-• Developed FastAPI services serving sub-100ms analytics queries
-• Created interactive Streamlit dashboard for price trends, forecasts, and risk analysis
-• Dockerized the full distributed pipeline using Docker Compose for reproducible deployment
+- Built a Kafka-based ingestion pipeline streaming stock data into analytics workflows
+- Implemented PySpark data processing jobs to compute forecasts and financial risk metrics
+- Orchestrated daily pipelines using Apache Airflow DAGs for automated data updates
+- Designed PostgreSQL analytics tables storing pre-computed forecasts and metrics
+- Developed FastAPI services serving sub-100ms analytics queries
+- Created interactive Streamlit dashboard for price trends, forecasts, and risk analysis
+- Dockerized the full distributed pipeline using Docker Compose for reproducible deployment
 
 **Tech:** Python, Apache Kafka, PySpark, Apache Airflow, FastAPI, PostgreSQL, Streamlit, Docker, Scikit-learn, SQLAlchemy
 
