@@ -23,7 +23,7 @@ Currently pursuing my Master’s in Information Systems and focused on becoming 
 Python • JavaScript • SQL • R • C
 
 ### Data Engineering
-ETL pipelines • Data cleaning & transformation • Data modeling • Analytics-ready schemas • Warehousing concepts (Star and Snowflake Schema) • Apache Spark (PySpark) • Apache Kafka • Batch and Streaming data pipelines • Distribuuted data processing
+ETL pipelines • Data cleaning & transformation • Data modeling • Analytics-ready schemas • Warehousing concepts (Star and Snowflake Schema) • Snowflake • dbt • Apache Spark (PySpark) • Apache Kafka • Batch and Streaming data pipelines • Distribuuted data processing
 
 ### Orchestration & Workflow
 Apache Airflow
@@ -71,6 +71,17 @@ Data Structures & Algorithms • OOP • Problem solving • System thinking •
 - REST APIs for real-time forecasting
 
 **Tech:** Python, FastAPI, PostgreSQL, Docker, ML  
+
+---
+
+## Tungsten Gaming Store Analytics — Cloud data warehouse & BI analytics pipeline
+
+Ingested raw transactional CSV data into AWS S3 as a centralized cloud staging layer for downstream processing
+Loaded raw tables into Snowflake and built modular dbt staging models with schema + data quality tests across all source entities
+Designed a star schema (fact & dimension tables) and business-facing mart tables aggregating revenue, product rankings, and customer lifetime value
+Developed an executive Tableau dashboard surfacing $3,784.50 in revenue across 30 orders, monthly trends, top-10 products, and per-customer LTV
+
+**Tech:** AWS S3, Snowflake, dbt Core, Tableau, SQL
 
 ---
 
