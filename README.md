@@ -76,10 +76,10 @@ Data Structures & Algorithms • OOP • Problem solving • System thinking •
 
 ## Tungsten Gaming Store Analytics — Cloud data warehouse & BI analytics pipeline
 
-Ingested raw transactional CSV data into AWS S3 as a centralized cloud staging layer for downstream processing
-Loaded raw tables into Snowflake and built modular dbt staging models with schema + data quality tests across all source entities
-Designed a star schema (fact & dimension tables) and business-facing mart tables aggregating revenue, product rankings, and customer lifetime value
-Developed an executive Tableau dashboard surfacing $3,784.50 in revenue across 30 orders, monthly trends, top-10 products, and per-customer LTV
+- Ingested raw transactional CSV data into AWS S3 as a centralized cloud staging layer for downstream processing
+- Loaded raw tables into Snowflake and built modular dbt staging models with schema + data quality tests across all source entities
+- Designed a star schema (fact & dimension tables) and business-facing mart tables aggregating revenue, product rankings, and customer lifetime value
+- Developed an executive Tableau dashboard surfacing $3,784.50 in revenue across 30 orders, monthly trends, top-10 products, and per-customer LTV
 
 **Tech:** AWS S3, Snowflake, dbt Core, Tableau, SQL
 
