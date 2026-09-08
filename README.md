@@ -5,6 +5,8 @@ Data • AI/ML • Backend Engineering
 I build production-style data systems, ML pipelines, and analytics platforms that turn raw data into actionable insights.  
 Currently pursuing my Master’s in Information Systems and focused on becoming a **Data Engineer** | **AI/ML Platform Engineer** at the intersection of data engineering, backend systems, and machine learning.
 
+I am now a **Databricks Certified Data Engineer Associate**
+
 ---
 
 ## 🧠 About Me
